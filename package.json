@@ -1,0 +1,24 @@
+{
+  "name": "se2_16_171858_l4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabri95/SE2_16_171858_L4.git"
+  },
+  "author": "Gabriele Cesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabri95/SE2_16_171858_L4/issues"
+  },
+  "homepage": "https://github.com/Gabri95/SE2_16_171858_L4#readme",
+  "dependencies": {
+    "bind": "^0.1.7",
+    "express": "^4.14.0",
+    "url": "^0.11.0"
+  }
+}
